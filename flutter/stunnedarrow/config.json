@@ -1,0 +1,12 @@
+{
+    "isAllowAdsANDROID": {
+        "121":"true",
+        "122":"false"
+    },
+    "isAllowAdsIOS": {
+        "121":"true",
+        "122":"false"
+    },
+    "latestVersionANDROID": "114",
+    "latestVersionIOS": "114"
+}
