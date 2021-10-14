@@ -1,8 +1,6 @@
 {
 "isAllowAdsANDROID":"false",
 "isAllowAdsIOS":"false",
-"isUseTestAdsANDROID":"false",
-"isUseTestAdsIOS":"false",
 "latestVersionANDROID":"114",
 "latestVersionIOS":"114",
 }
