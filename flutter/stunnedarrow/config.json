@@ -1,6 +1,6 @@
 {
-    "isAllowAdsANDROID": ["1.2.1","1.2.2"],
-    "isAllowAdsIOS": ["1.2.1","1.2.2"],
+    "isAllowAdsANDROID": ["1.2.1"],
+    "isAllowAdsIOS": ["1.2.1"],
     "isAllowVersionRunANDROID" : ["1.2.1","1.2.2"],
     "isAllowVersionRunIOS" : ["1.2.1","1.2.2"],
     "latestVersionANDROID": "114",
